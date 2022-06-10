@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FalesieInItalia</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoiaW1hbHVyaXMiLCJhIjoiY2tmZm1uZGs4MDVwNTJycmtrdm5oNXNmMCJ9.1mY4d25nrtXlcWjcs9ygWg</string>
+    <string name="user_location_permission_explanation">mi serve il permesso</string>
+    <string name="user_location_permission_not_granted">permesso non garantito</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
